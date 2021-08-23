@@ -3,11 +3,13 @@
    "version": "1.0.0",
    "description": "",
    "main": "index.js",
+   "engines": {
+     "node": "14.16.0"
+  },
    "scripts": {
       "migrations": "tsc && node ./build/migrations.js",
       "start": "tsc && node ./build/index.js",
       "dev": "clear && ts-node-dev ./src/index.ts",
-      "build": "clear && echo \"Transpiling files...\" && tsc && echo \"Done!\" ",
       "test": "jest"
    },
    "keywords": [],
