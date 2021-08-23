@@ -1,0 +1,1 @@
+{"version":3,"file":"posts.js","sourceRoot":"","sources":["../../src/routes/posts.ts"],"names":[],"mappings":";;;;;;AAAA,sDAA8B;AAC9B,yEAAsE;AAEzD,QAAA,WAAW,GAAG,iBAAO,CAAC,MAAM,EAAE,CAAC;AAE5C,MAAM,eAAe,GAAG,IAAI,iCAAe,EAAE,CAAC;AAC9C,mBAAW,CAAC,IAAI,CAAC,SAAS,EAAE,eAAe,CAAC,UAAU,CAAC,CAAC;AACxD,mBAAW,CAAC,GAAG,CAAC,MAAM,EAAE,eAAe,CAAC,cAAc,CAAC,CAAC"}
